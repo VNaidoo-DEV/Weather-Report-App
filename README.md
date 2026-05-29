@@ -158,6 +158,9 @@ The same key names were used in both sending and receiving activities.
 **Solution:**
 `.text.toString()` was used before validation checks.
 
+![Error Handling](Screenshots/IncorrectValidation.png)
+
+
 ---
 
 ## 👨‍💻 Author
