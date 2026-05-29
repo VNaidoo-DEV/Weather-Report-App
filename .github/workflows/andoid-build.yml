@@ -1,4 +1,4 @@
-```yaml id="u6kz1w"
+
 name: Weather App CI
 
 on:
@@ -36,4 +36,3 @@ jobs:
 
       - name: Run Unit Tests
         run: ./gradlew test
-```
