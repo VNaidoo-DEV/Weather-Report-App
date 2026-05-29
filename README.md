@@ -84,7 +84,7 @@ When the user clicks **View Details**:
 
 ### 3. Detailed View Screen
 
-![Detailed Screen](Screenshots/DetailedScreen.png)
+![Detailed Screen](Screenshots/DetailedViewScreen.png)
 
 * Displays all entered weather data
 * Uses a loop to show:
